@@ -2,4 +2,4 @@
 
 Open Source production scripts for Font Projects.
 
-- [Convert .ttf or .otf fonts to .woff or .woff2](./scripts/makeitwoff/makeitwoff.py)
+- [Convert .ttf or .otf fonts to .woff or .woff2](./makeitwoff/makeitwoff.py)

@@ -35,7 +35,7 @@ Before anything, you'll need to have `python` and a `Unix shell` installed on yo
    - Individually
      ```SHELL
      (.env) project-path $ pip install brotli
-     (.env) project-path $ pip install font tools
+     (.env) project-path $ pip install fonttools
      ```
    - Or with the `requirements.txt` file
      ```SHELL
