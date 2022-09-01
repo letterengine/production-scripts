@@ -1,6 +1,6 @@
 # How to use this repo?
 
-Before anything, you'll need to have `python` and a `Unix shell` installed on your computer.
+Before anything, you'll need to have `python` and a `unix shell` installed on your computer.
 
 - [Python](https://www.python.org/downloads/)
 - The Mac OS Terminal is ready to go![^1]
